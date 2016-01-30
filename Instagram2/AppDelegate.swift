@@ -5,7 +5,7 @@
 //  Created by Aashima Garg on 1/30/16.
 //  Copyright © 2016 Aashima Garg. All rights reserved.
 //
-
+import AFNetworking
 import UIKit
 
 @UIApplicationMain
